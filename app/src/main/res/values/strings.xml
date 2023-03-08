@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Eredivisie Club</string>
+
+    <string name="club_name">Nama Club</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="penjelasan">Penjelasan</string>
+    <string name="my_name">Nama </string>
+    <string name="email">Email</string>
+
+    <string-array name="data_name">
+        <item>Feyenoord Rotterdam</item>
+        <item>Ajax Amsterdam</item>
+        <item>AZ Alkmaar</item>
+        <item>PSV Eindhoven</item>
+        <item>FC Twente</item>
+        <item>Sparta Rotterdam</item>
+        <item>FC Utrecht</item>
+        <item>RKC Waalwijk</item>
+        <item>SC Heerenveen</item>
+        <item>NEC Nijmegen</item>
+        <item>Fortuna Sittard</item>
+        <item>Go Ahead Eagles</item>
+        <item>Vitesse Arnhem</item>
+        <item>FC Volendam</item>
+        <item>Excelsior</item>
+        <item>FC Emmen</item>
+        <item>FC Groningen</item>
+        <item>SC Cambuur</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Feyenoord Rotterdam adalah klub sepak bola Belanda yang berbasis di kota Rotterdam. Feyenoord adalah satu dari tiga tim utama di Eredivisie atau liga utama Belanda selain Ajax Amsterdam dan PSV Eindhoven sebagai tiga tim utama yang paling sering menjadi juara Eredivisie. Feyenoord adalah salah satu tim liga Belanda yang memiliki prestasi Eropa dengan menjadi juara Piala UEFA sebanyak dua kali. Tapi untuk saat ini kehebatan Feyenoord tersaingi oleh klub AZ Alkmaar yang mulai stabil di papan atas liga utama Belanda. Posisi Feyenoord musim kompetisi 2006/2007 berada pada posisi tujuh klasemen akhir.</item>
+        <item>Ajax adalah adalah sebuah klub sepak bola dari Amsterdam, Belanda. Klub ini adalah salah satu klub terkuat di Belanda dan juga di Eropa. Secara historis, Ajax (dinamai sesuai pahlawan Yunani legendaris) telah menjadi klub paling sukses di Belanda, dengan 34 gelar Eredivisie dan 19 Piala KNVB. Ajax terus bermain di Eredivisie, sejak awal liga pada tahun 1956 dan, bersama dengan Feyenoord dan PSV Eindhoven, itu adalah salah satu klub "tiga besar" yang mendominasi kompetisi itu.</item>
+        <item>AZ Alkmaar adalah klub Belanda yang berbasis di kota Alkmaar. Alkmaar Zaanstreek adalah kepanjangan dari AZ, tetapi di Eropa pun klub ini di kenal dengan nama AZ Alkmaar. Saat ini prestasi klub sangat menanjak di perkancahan sepak bola Belanda dengan selalu stabil berada di lima besar klasemen akhir Eredivisie.</item>
+        <item>PSV atau PSV Eindhoven, adalah klub olahraga dari Eindhoven, Belanda yang terutama terkenal dengan cabang sepak bolanya. PSV adalah salah satu dari tiga klub sepak bola terbesar di Belanda, dua yang lainnya adalah Ajax Amsterdam dan Feyenoord Rotterdam. Klub ini memenangi Piala Eropa, cikal bakal Liga Champions, pada tahun 1988 dan adalah salah satu klub yang paling sering tampil di Liga Champions Eropa saat ini. Klub ini sering dijuluki Boeren (bahasa Belanda: "petani") karena berasal dari daerah provinsi.</item>
+        <item>FC Twente adalah gabungan dua klub profesional Sportclub Enschede dan Enschedese Boys. Klub ini dibentuk pada tahun 1965 sebagai penggabungan dua klub profesional, Sportclub Enschede dan Enschedese Boys. Salah satu pendahulunya, SC Enschede, juga pernah memenangkan satu kejuaraan Belanda pada tahun 1926. The Tukkers hampir memanfaatkan tiket Piala UEFA itu setelah mengalahkan Juventus di semi final.</item>
+        <item>Sparta Rotterdam adalah tim sepak bola profesional tertua di Belanda yang didirikan pada 1 April 1888. Sparta bermain di Eerste Divisie, kompetisi kasta kedua sepak bola profesional Belanda. Klub ini adalah salah satu dari tiga klub sepak bola profesional yang berasal dari Rotterdam, yang lainnya adalah Excelsior (berdiri sejak 1902) dan Feyenoord (berdiri sejak 1908), keduanya bermain di Eredivisie.</item>
+        <item>FC Utrecht adalah klub sepak bola Belanda yang berbasi di kota Utrecht. Klub ini adalah merger dari tiga klub yang ada di kota Utrecht, DOS, Elinkwijk dan Velox pada tahun 1970. Sejak itu, klub telah memenangkan tiga turnamen piala nasional: pada tahun 1985, 2003 dan 2004. Selain itu, FC Utrecht juga memenangkan Johan Cruyff Shield pada tahun 2004 sebagai klub pertama di luar Tiga Besar tradisional Belanda. Utrecht juga satu-satunya klub di luar Tiga Besar yang tidak pernah mengalami degradasi dari papan atas Eredivisie.</item>
+        <item>RKC Waalwijk adalah klub sepak bola Belanda yang berbasis di kota Waalwijk. Klub ini berdiri pada 1940 dan merupakan gabungan dari klub HEC, WVB dan Hercules. Meskipun dianggap sebagai salah satu klub terkecil di antara peserta Eredivisie, tetapi RKC mampu bertahan di divisi tertinggi hingga beberapa tahun. Warna biru dan kuning menjadi warna seragam ketika bermain di Mandemakers Stadion, Waalwijk.</item>
+        <item>SC Heerenveen adalah sebuah klub sepak bola Belanda yang bermarkas di kota Heerenveen. Logo dari klub adalah lambang dari Friesland, sebuah provinsi di Belanda di mana terdapat banyak orang yang menggunakan bahasa frisia. Klub ini selama berkompetisi di kompetisi sepak bola resmi Belanda belum sekalipun meraih prestasi yang membanggakan sekalipun.</item>
+        <item>NEC Nijmegen adalah adalah klub sepak bola Belanda yang bermarkas di kota Nijmegen. Selama keikutsertaannya di kompetisi sepak bola profesional Belanda, NEC Nijmegen belum pernah meraih prestasi yang dapat dibanggakan.</item>
+        <item>Fortuna Sittard adalah klub sepakbola di Sittard, Belanda. Klub saat ini memainkan sepak bola dalam kapasitas 12.500 Stadion Fortuna Sittard dan fitur dalam Eredivisie. Klub ini didirikan melalui penggabungan mantan klub Fortuna 54 dan Sittardia, yang bergabung sebagai Fortuna Sittardia Combinatie pada 1 Juli 1968. Klub ini mengalami kekayaan yang beragam sepanjang sejarahnya meskipun mereka merupakan pertandingan reguler di Eredivisie pada 1990-an, dengan banyak pemain berbakat seperti Kevin Hofland, Mark van Bommel dan Fernando Ricksen muncul dari sistem masa mudanya. Para pemain ini kemudian bergabung dengan PSV Eindhoven dan Rangers setelah itu tampil untuk tim Belanda. Manajemen tim juga memperhatikan bakat, karena mereka mengambil Wilfred Bouma dan Patrick Paauwe dari pengaturan pemain muda PSV. Kedua pemain berkembang dengan baik di bawah manajer Bert van Marwijk, sebelum membobol tim nasional Belanda dan bergerak menuju klub yang lebih besar.</item>
+        <item>Go Ahead Eagles dalah sebuah klub sepak bola yang berasal dari Deventer, Belanda, saat ini bermain di Eerste Divisie. Stadion kandang klub ini adalah De Adelaarshorst. Sampai saat ini, klub telah memenangkan kejuaraan nasional sebanyak empat kali (1917, 1922, 1930, 1933). Mereka telah menghasilkan sejumlah pemain penting selama beberapa tahun terakhir, seperti Bart Verheul,[1] Raimond van der Gouw, René Eijkelkamp, Marc Overmars, Paul Bosvelt, Jan Kromkamp, Victor Sikora, Bert van Marwijk dan Demy de Zeeuw Beberapa pemain naturalisasi Indonesia juga pernah membela klub ini diantaranya adalah Joey Suk dan Diego Michiels. </item>
+        <item>Vitesse Arnhem adalah klub sepak bola Belanda yang berbasis di kota Arnhem. Selama berkarier di kompetisi sepak bola Belanda, klub ini belum pernah sekalipun mengecap prestasi yang membanggakan. Vitesse merupakan klub Belanda pertama dengan pemilik dan ketua orang asing sejak seorang mantan pemain sepak bola asal Georgia yang kini menjadi pengusaha, Merab Jordania menjadi pemilik dan ketua klub ini.</item>
+        <item>FC Volendam adalah sebuah tim sepak bola belanda yang bermain di divisi utama Eredivisie. Didirikan pada tahun 1920. Berbasis di Volendam. Klub ini memainkan pertandingan kandangnya di Kras Stadion yang berkapasitas 6.260 penonton. Seragam mereka berwarna orange hitam.</item>
+        <item>Excelsior Rotterdam adalah klub sepak bola Belanda yang berbasis di kota Rotterdam. Berdiri pada tahun 23 Juli 1902 sebelumnya bernama "Rotterdamse Voetbal en Atletiek Vereniging Excelsior", memainkan pertandingan kandangnya di Stadion Stadion Woudestein.</item>
+        <item>FC Emmen adalah sebuah klub sepak bola Belanda yang berbasis di Emmen, Drenthe, dan saat ini bermain di Eredivisie, Kompetisi Liga Belanda.</item>
+        <item>FC Groningen adalah klub sepak bola Belanda yang bermarkas di kota Groningen. Selama berkompetisi di kompetisi profesional Belanda FC Groningen belum pernah mengecap sekalipun prestasi yang membanggakan.</item>
+        <item>SC Cambuur adalah tim sepak bola profesional asal Belanda yang kini berkompetisi di Eredivisie. Tim memainkan laga kandang di Cambuur Stadion yang berkapasitas 10,500 penonton. Lambang tim House of Cammingha, yang merupakan keluarga besar Frisian. SC Cambuur terakhir kali bermain di Eredivisie di musim 2000.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/feyenoord_rotterdam</item>
+        <item>@drawable/ajax_amsterdam</item>
+        <item>@drawable/az_alkmaar</item>
+        <item>@drawable/psv_eindhoven</item>
+        <item>@drawable/fc_twente</item>
+        <item>@drawable/sparta_rotterdam</item>
+        <item>@drawable/fc_utrecht</item>
+        <item>@drawable/rkc_waalwijk</item>
+        <item>@drawable/sc_heerenveen</item>
+        <item>@drawable/nec_nijmegen</item>
+        <item>@drawable/fortuna_sittard</item>
+        <item>@drawable/go_ahead_eagles</item>
+        <item>@drawable/vitesse_arnhem</item>
+        <item>@drawable/fc_volendam</item>
+        <item>@drawable/excelsior_rotterdam</item>
+        <item>@drawable/fc_emmen</item>
+        <item>@drawable/fc_groningen</item>
+        <item>@drawable/sc_cambuur</item>
+    </integer-array>
+</resources>
